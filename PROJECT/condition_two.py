@@ -1,3 +1,5 @@
+from condition_one import get_data
+
 import matplotlib.pyplot as plt
 
 data = open('weight-height.csv')
