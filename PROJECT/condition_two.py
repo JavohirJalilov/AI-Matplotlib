@@ -22,3 +22,6 @@ def plot_data(gender:list,weight:list,height:list):
     plt.legend(loc='upper left',ncol=2,bbox_to_anchor=(0,1.125))
 
     plt.show()
+
+gender,weight,height = get_data(data)
+plot_data(gender,weight,height)
