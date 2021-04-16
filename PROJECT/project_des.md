@@ -1,6 +1,7 @@
-#### Conditon 1
+# Conditon 1
 
 ### `weight-height.csv` fayilni yuklab oling.
+*link->* `!wget https://raw.githubusercontent.com/Naxalov/matplotlib/master/scatter/weight-height.csv`
 
  **Gender** - ustuni listga 0 va 1 ko'rinishda joylashtiring
 
@@ -9,10 +10,10 @@
  **Height** - ustini inch da berilgan sm ko'rinishda listga joylashtiring (2.54 sm = 1 inch).
 
 
-#### Conditon 2
+# Conditon 2
 
- # Scatter plot
- 
+### Scatter plot
+
 **-** **Weight** va **height** ma'lumotlarni **gender** orqali ajratib alohida listlarga joylashtiring.
 
 **-** Ma'lumotlarni tasvirlang.
