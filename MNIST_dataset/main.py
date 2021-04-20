@@ -19,3 +19,7 @@ def get_data(data):
         dataset.append(number_data)
 
     return dataset
+
+def data_imshow(data_number):
+    plt.imshow(data_number,cmap='gray')
+    plt.show()
