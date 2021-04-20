@@ -23,3 +23,7 @@ def get_data(data):
 def data_imshow(data_number):
     plt.imshow(data_number,cmap='gray')
     plt.show()
+
+
+dataset = get_data(data)
+data_imshow(dataset[2002])
